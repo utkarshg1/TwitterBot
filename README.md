@@ -1,2 +1,2 @@
 # TwitterBot
-TwitterBot using Celinium and WebDriver
+TwitterBot using Selinium and WebDriver
